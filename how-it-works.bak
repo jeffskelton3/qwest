@@ -1,0 +1,41 @@
+<? $page="How it Works"; ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Qwest Credit Enhancement | <?php echo $page; ?></title>
+<? include("inc/global-header-data.php"); ?>
+</head>
+<body>
+	<div id="container">
+		<div id="hdr">
+<? include("inc/content-header.php"); ?>
+		</div>
+		<div id="content">
+		<div id="main-content" class="home">
+		<!-- content begins here -->
+		<h1><em>Process</em></h1>
+		<p>Establishing and maintaining good credit is the key to taking advantage of many of the benefits life has to offer.  Truth be told, good credit is the most important financial asset you have.  Failing to have good credit results in the inability to engage in such things as opening up a credit card with reasonable interest rates and worthwhile spending limits, renting an apartment, and qualifying for mortgage and automotive loans.  Believe it or not, statistics prove that anything less than good credit can result in tremendous difficulty in securing a job.</p><p>Knowing the importance of good credit, the Qwest Credit team has created a process that has proven to be so effective at turning around the lives of its clients that the Qwest Credit team has been labeled an INDUSTRY LEADER in credit enhancement.  The respected and experienced attorneys on the Qwest Credit team have devised a process that is extremely efficient, effective and affordable.</p><p>As our new client, you are only four steps from permanently changing your life.</p>
+		<div class="hr">&nbsp;</div>
+		<h2>Step 1:</h2>
+		<p>Bring or Send Us Your Credit Report and Start Up Documents. The process begins with you bringing or sending in copies of your credit reports from the three major credit bureaus. Also needed are copies of your ID and Social Security Card, and a signed copy of our Financial Services Agreement. If bringing these documents to our office location is not convenient, we encourage the use of overnight mail, fax, or email, to ensure speedy and safe delivery.</p>
+		<div class="float-wrap">
+	<h2>Step 2:</h2>
+    <p>Forward All Updated Information From the Credit Bureaus, Collection Agencies, and Original Creditors.</p>
+    <p>Our Team Fights to Enforce Your Rights. This is the step where the Qwest Credit team truly separates itself from all of our competition. Our credit advisors possess the necessary experience, skills and endurance to ensure that your rights are enforced and that the credit bureaus, collection agencies, and creditors fully comply with the law. Our credit advisors bring the dispute directly to the credit bureaus, collection agencies, and original creditors to aggressively fight to ensure every possible negative item is properly addressed according to your legal rights. Regardless of the complexity of your individual case, the Qwest Credit team promises to continue advocating your rights until you are 100% satisfied. 
+</p>
+		</div>
+		<h2>Step 3:</h2>
+		<p>Forward All Updated Information From the Credit Bureaus, Collection Agencies, and Original Creditors.</p>
+        <p>During the dispute process, you will be sent updated reports from the credit bureaus, along with some correspondence from the collection agencies and original creditors. Due to the fact that the credit bureaus and creditors will only send the updated information directly to you and not to Qwest Credit, it is vital to the process that you forward both your updated credit report and any other correspondence from them or the collection agencies and creditors directly to us immediately at the end of each round of investigations.</p>
+        <p>Receipt of the updated reports is an extremely important part of the process as these are the documents which provide our team with the information necessary to being formulating the specific strategy for your individual case. These initial credit reports will also be used later to show you the incredible results the Qwest Credit team is confident it will accomplish for you. Updated Reports should be sent to us as soon as they are received.  When sending in your updated reports and information, please use overnight mail to ensure speedy and safe delivery.</p>
+        <h2>Step 4:</h2>
+		<p>Sit Back, Relax and Enjoy Financial Freedom. The credit bureaus are required by law to fully investigate your claim within a 30 day time period. After the completion of your claim submitted by the Qwest Credit team, the changes made to your credit report will reflect immeditately. Due to our extremely efficient process and dedicated team, the average time from the initiation of a dispute and receipt of the credit bureaus response is an industry leading 30-45 days.  At this point, based on the progress that has been made, the Qwest Credit team will continue the process on your behalf until you are completely satisfied with your credit report.</p>
+		</div>
+		<!-- end content -->
+		</div>
+		<div id="ftr">
+<? include("inc/content-footer.php"); ?>
+		</div>
+	</div>
+<? include("inc/global-ga.php"); ?>
+</body>
+</html>

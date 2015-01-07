@@ -1,0 +1,29 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "Templates"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "css"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "images"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "img"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "inc"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "js"
+		}
+	]
+}
